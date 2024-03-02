@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FALCONCINESCOPE Web App**
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **C#,ASP .Net ,Razor Pages**
 
