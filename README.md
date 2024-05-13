@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Api Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** ,**Microservices**
 
 - 💬 Ask me about **C#,ASP .Net ,Razor Pages**
 
